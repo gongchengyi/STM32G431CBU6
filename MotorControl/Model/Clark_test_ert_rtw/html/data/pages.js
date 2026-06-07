@@ -1,0 +1,1 @@
+var reportPages = [["摘要","Clark_test_survey.html"],["子系统报告","Clark_test_subsystems.html"],["代码接口报告","Clark_test_interface.html"],["可追溯性报告","Clark_test_trace.html"],["静态代码度量报告","Clark_test_metrics.html"],["已消除模块","Clark_test_reducedblocks.html"],["代码替换报告","Clark_test_replacements.html"],["代码生成器假设","Clark_test_coderassumptions.html"]];

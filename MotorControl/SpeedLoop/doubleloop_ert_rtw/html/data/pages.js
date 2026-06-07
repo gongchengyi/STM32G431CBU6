@@ -1,0 +1,1 @@
+var reportPages = [["摘要","doubleloop_survey.html"],["子系统报告","doubleloop_subsystems.html"],["代码接口报告","doubleloop_interface.html"],["可追溯性报告","doubleloop_trace.html"],["静态代码度量报告","doubleloop_metrics.html"],["已消除模块","doubleloop_reducedblocks.html"],["代码替换报告","doubleloop_replacements.html"],["代码生成器假设","doubleloop_coderassumptions.html"]];

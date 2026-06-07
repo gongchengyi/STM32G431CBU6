@@ -1,0 +1,13 @@
+test\svpwm.o: ..\MATLAB\SVPWM.c
+test\svpwm.o: ..\MATLAB\SVPWM.h
+test\svpwm.o: ..\MATLAB\rtwtypes.h
+test\svpwm.o: ..\MATLAB\mw_cmsis.h
+test\svpwm.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+test\svpwm.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+test\svpwm.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+test\svpwm.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+test\svpwm.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+test\svpwm.o: D:\keil5\ARM\ARMCC\Bin\..\include\math.h
+test\svpwm.o: D:\keil5\ARM\ARMCC\Bin\..\include\float.h
+test\svpwm.o: D:\keil5\ARM\ARMCC\Bin\..\include\limits.h
+test\svpwm.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
